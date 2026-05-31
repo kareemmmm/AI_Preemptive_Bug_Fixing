@@ -5,7 +5,7 @@ Use AI as a Senior C Developer to review a vulnerable linked list function, iden
 
 ## AI Tool Used
 
-ChatGPT
+ChatGPT & Gemini
 
 ## Files
 
